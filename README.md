@@ -1,2 +1,1 @@
-# pro38
-makedmyowngame
+# project-38-INFINTE-RUNNER-GAME
